@@ -36,6 +36,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [mirai v2.0](https://shikokuchuo.net/posts/25-mirai-v2/) - easier distributed computing, mirai cancellation, tidyverse purrr integration.
 
++ [Your Definitive Guide to Seamless Authentication with Auth0 in Shiny Apps](https://www.datachamp.fr/en/posts/auth0/)
+
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
